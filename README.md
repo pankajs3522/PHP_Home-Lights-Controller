@@ -1,5 +1,5 @@
 # Home-Lights-Controller
--It is a project which can take commands from a remote client and changes the status of GPIO pins. In short, it helps you remotely control electronic devices using Raspberry Pi.
+It is a project which can take commands from a remote client and changes the status of GPIO pins. In short, it helps you remotely control electronic devices using Raspberry Pi.
 
 #  ld2.py
       This file controls the GPIO pins of RaspberryPI by reading the status from status.txt
